@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Islombek
 - 👀 I’m interested in drawing
 - 🌱 I’m currently learning dasturlash
-- 💞️ I’m looking to collaborate on dastur yaratish
+- 💞️ I’m looking to collaborate on creating app
 - 📫 How to reach me  +998905272494
 
 <!---
